@@ -49,15 +49,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 Project Link: [https://github.com/AchroDev/AchroDev](https://github.com/AchroDev/AchroDev)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -67,7 +62,6 @@ Project Link: [https://github.com/AchroDev/AchroDev](https://github.com/AchroDev
 * [othneildrew's README template](https://github.com/othneildrew/Best-README-Template)
 * [Badges for programming languages/applications](https://dev.to/envoy_/150-badges-for-github-pnk)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
