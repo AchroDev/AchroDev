@@ -44,15 +44,15 @@
 <!-- USAGE EXAMPLES -->
 ## Programming Languages
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
 <!-- CONTACT -->
 ## Contact
-Project Link: [https://github.com/AchroDev/AchroDev](https://github.com/AchroDev/AchroDev)
+Email: [AchroDev](mailto:achrodev@proton.me)
 
 
 
@@ -67,13 +67,5 @@ Project Link: [https://github.com/AchroDev/AchroDev](https://github.com/AchroDev
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AchroDev/AchroDev.svg?style=for-the-badge
-[contributors-url]: https://github.com/AchroDev/AchroDev/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AchroDev/AchroDev.svg?style=for-the-badge
-[forks-url]: https://github.com/AchroDev/AchroDev/network/members
-[stars-shield]: https://img.shields.io/github/stars/AchroDev/AchroDev.svg?style=for-the-badge
-[stars-url]: https://github.com/AchroDev/AchroDev/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AchroDev/AchroDev.svg?style=for-the-badge
-[issues-url]: https://github.com/AchroDev/AchroDev/issues
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
 [license-url]: https://github.com/AchroDev/AchroDev/blob/master/LICENSE.txt
