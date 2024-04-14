@@ -54,7 +54,7 @@ fun main() {
 ```
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ```Java
-public void main(String[] args) {
+public static void main(String[] args) {
     System.out.println("Java was one of my first languages back when OSRS and RSPSs were huge");
 }
 ```
