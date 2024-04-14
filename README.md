@@ -54,8 +54,10 @@ fun main() {
 ```
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ```Java
-public static void main(String[] args) {
-    System.out.println("Java was one of my first languages back when OSRS and RSPSs were huge");
+Class Main{
+    public static void main(String[] args) {
+        System.out.println("Java was one of my first languages back when OSRS and RSPSs were huge");
+    }
 }
 ```
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
