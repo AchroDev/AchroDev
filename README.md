@@ -41,10 +41,27 @@
 ## Programming Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+```Rust
+fn main() {
+   println!("Welcome to my page!");
+}
+```
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+```Kotlin
+fun main() {
+    println("Please feel welcome to take a look around for inspiration")
+}
+```
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+```Java
+public void main(String[] args) {
+    System.out.println("Java was one of my first languages back when OSRS and RSPSs were huge");
+}
+```
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+```Python
+print("Take care!")
+```
 
 <!-- CONTACT -->
 ## Contact
