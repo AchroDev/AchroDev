@@ -43,7 +43,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ```Rust
 fn main() {
-   println!("Welcome to my page!");
+    let message: &'static str "Welcome to my page!"; 
+    println!("{}", message);
 }
 ```
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
