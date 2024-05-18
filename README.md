@@ -43,7 +43,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ```Rust
 fn main() {
-    let message: &'static str "Welcome to my page!"; 
+    let message: &'static str = "Welcome to my page!"; 
     println!("{}", message);
 }
 ```
