@@ -4,7 +4,7 @@
 
 <!-- PROJECT SHIELDS -->
 [![MIT License][license-shield]][license-url]
-
+![Followers][followers-shield]
 
 
 <!-- PROJECT LOGO -->
@@ -25,7 +25,7 @@
 <!-- USAGE EXAMPLES -->
 ## Programming Languages Actively Using/Learning
 
-![Rust][rust-shield]
+![Rust][rust-shield] ![primary-shield]
 ```Rust
 fn main() {
     let message: &'static str = "Welcome to my page!"; 
@@ -50,6 +50,8 @@ Class Main{
 ```Python
 print("Take care!")
 ```
+
+![lang stats][lang-stats-link]
 
 ## Other Programming Languages Used Experimentally
 
@@ -100,3 +102,6 @@ Email: [AchroDev](mailto:achrodev@proton.me)
 [go-shield]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 [lua-shield]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 [spring-shield]:https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[followers-shield]: https://img.shields.io/github/followers/AchroDev.svg?style=social&label=Follow&maxAge=2592000
+[lang-stats-link]: https://github-readme-stats.vercel.app/api/top-langs/?username=AchroDev&theme=blue-green
+[primary-shield]: https://img.shields.io/badge/primary-3ed918
