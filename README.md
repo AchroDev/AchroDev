@@ -55,14 +55,14 @@ print("Take care!")
 
 ## Other Programming Languages Used Experimentally
 
-![BASH][bash-shield]
-![C#][c#-shield]
 ![C++][c++-shield]
+![C#][c#-shield]
 ![Go][go-shield]
 ![JavaScript][js-shield]
 ![PHP][php-shield]
 ![POWERSHELL][pwsh-shield]
 ![Ruby][ruby-shield]
+![BASH][bash-shield]
 
 ## Languages Interested In
 ![Lua][lua-shield]
