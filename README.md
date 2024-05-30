@@ -51,7 +51,7 @@ Class Main{
 print("Take care!")
 ```
 
-![lang stats][lang-stats-link]
+![lang stats][lang-stats-link]![roadmap.sh][roadmap-sh]
 
 ## Other Programming Languages Used Experimentally
 
@@ -65,9 +65,9 @@ print("Take care!")
 ![BASH][bash-shield]
 
 ## Languages Interested In
+![Haskell][haskell-shield]
 ![Lua][lua-shield]
 ![Spring][spring-shield]
-
 
 <!-- CONTACT -->
 ## Contact
@@ -81,7 +81,7 @@ Email: [AchroDev](mailto:achrodev@proton.me)
 * [othneildrew's README template](https://github.com/othneildrew/Best-README-Template)
 * [Badges for programming languages/applications](https://dev.to/envoy_/150-badges-for-github-pnk)
 
-
+**pssst...I use Arch btw** ![arch][arch-shield]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -100,8 +100,11 @@ Email: [AchroDev](mailto:achrodev@proton.me)
 [bash-shield]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [pwsh-shield]: https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white
 [go-shield]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[haskell-shield]: https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white
 [lua-shield]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 [spring-shield]:https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [followers-shield]: https://img.shields.io/github/followers/AchroDev.svg?style=social&label=Follow&maxAge=2592000
 [lang-stats-link]: https://github-readme-stats.vercel.app/api/top-langs/?username=AchroDev&theme=blue-green
 [primary-shield]: https://img.shields.io/badge/primary-3ed918
+[roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark&roadmaps=rust
+[arch-shield]: https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge
