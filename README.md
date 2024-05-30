@@ -51,7 +51,7 @@ Class Main{
 print("Take care!")
 ```
 
-![lang stats][lang-stats-link]![roadmap.sh][roadmap-sh]
+![lang stats][lang-stats-link] ![roadmap.sh][roadmap-sh]
 
 ## Other Programming Languages Used Experimentally
 
