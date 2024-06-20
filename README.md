@@ -1,11 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
 
-
 <!-- PROJECT SHIELDS -->
+
 [![MIT License][license-shield]][license-url]
 ![Followers][followers-shield]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -23,22 +23,28 @@
 </div>
 
 <!-- USAGE EXAMPLES -->
+
 ## Programming Languages Actively Using/Learning
 
 ![Rust][rust-shield] ![primary-shield]
+
 ```Rust
 fn main() {
-    let message: &'static str = "Welcome to my page!"; 
+    let message: &'static str = "Welcome to my page!";
     println!("{}", message);
 }
 ```
+
 ![Kotlin][kotlin-shield]
+
 ```Kotlin
 fun main() {
     println("Please feel welcome to take a look around for inspiration")
 }
 ```
+
 ![Java][java-shield]
+
 ```Java
 Class Main{
     public static void main(String[] args) {
@@ -46,7 +52,9 @@ Class Main{
     }
 }
 ```
+
 ![Python][python-shield]
+
 ```Python
 print("Take care!")
 ```
@@ -61,26 +69,25 @@ print("Take care!")
 
 ![InterestedLanguages][int-lang]
 
-
 <!-- CONTACT -->
+
 ## Contact
 
 Email: [AchroDev][email]
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [othneildrew's README template][readme-template]
-* [First badges used for programming languages/applications][badges1]
-* [Second set of badges seen][badges2]
+- [othneildrew's README template][readme-template]
+- [First badges used for programming languages/applications][badges1]
+- [Second set of badges seen][badges2]
 
 **pssst...I use Arch btw** ![arch][arch-shield]
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
 [license-url]: https://github.com/AchroDev/AchroDev/blob/master/LICENSE.txt
 [badges1]: https://dev.to/envoy_/150-badges-for-github-pnk
@@ -97,4 +104,4 @@ Email: [AchroDev][email]
 [roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark
 [arch-shield]: https://skillicons.dev/icons?i=arch
 [exp-lang]: https://skillicons.dev/icons?i=cpp,cs,go,js,php,ruby,pwsh,bash
-[int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring
+[int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring,scala
