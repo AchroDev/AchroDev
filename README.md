@@ -101,7 +101,7 @@ Email: [AchroDev][email]
 [lang-stats-link]: https://github-readme-stats.vercel.app/api/top-langs/?username=AchroDev&theme=blue-green
 [primary-shield]: https://img.shields.io/badge/primary-3ed918
 [readme-template]: https://github.com/othneildrew/Best-README-Template
-[roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark&roadmaps=rust%2Clinux%2Candroid%2Ccpp
+[roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark
 [arch-shield]: https://skillicons.dev/icons?i=arch
 [exp-lang]: https://skillicons.dev/icons?i=cpp,cs,go,js,php,ruby,pwsh,bash
 [int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring,scala
