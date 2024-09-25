@@ -26,7 +26,7 @@
 
 ## Programming Languages Actively Using/Learning
 
-![Rust][rust-shield] ![primary-shield]
+![Rust][rust-shield] ![active-shield-yes]
 
 ```Rust
 fn main() {
@@ -35,7 +35,20 @@ fn main() {
 }
 ```
 
-![Kotlin][kotlin-shield]
+![C++][c++-shield] ![active-shield-yes]
+
+```C++
+#define <iostream>
+#define LOG(x) std::cout << x << std::endl;
+
+int main()
+{
+    LOG("Alright fine, I went back to learn C++!");
+    std::cin.get();
+}
+```
+
+![Kotlin][kotlin-shield] ![active-shield-no]
 
 ```Kotlin
 fun main() {
@@ -43,7 +56,7 @@ fun main() {
 }
 ```
 
-![Java][java-shield]
+![Java][java-shield] ![active-shield-no]
 
 ```Java
 Class Main{
@@ -53,15 +66,9 @@ Class Main{
 }
 ```
 
-![Python][python-shield]
-
-```Python
-print("Take care!")
-```
-
 ![lang stats][lang-stats-link] ![roadmap.sh][roadmap-sh]
 
-## Other Programming Languages Used Experimentally
+## Other Programming Languages Used/Learning
 
 ![ExperimentalLanguages][exp-lang]
 
@@ -85,6 +92,10 @@ Email: [AchroDev][email]
 
 **pssst...I use Arch btw** ![arch][arch-shield]
 
+## License
+
+Released under [MIT](/LICENSE) by [@AchroDev](https://github.com/AchroDev).
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
@@ -96,12 +107,14 @@ Email: [AchroDev][email]
 [rust-shield]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
 [kotlin-shield]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[c++-shield]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [followers-shield]: https://img.shields.io/github/followers/AchroDev.svg?style=social&label=Follow&maxAge=2592000
 [lang-stats-link]: https://github-readme-stats.vercel.app/api/top-langs/?username=AchroDev&theme=blue-green
-[primary-shield]: https://img.shields.io/badge/primary-3ed918
+[active-shield-yes]: https://img.shields.io/badge/Active-Yes-2ea44f
+[active-shield-no]: https://img.shields.io/badge/Active-No-red
 [readme-template]: https://github.com/othneildrew/Best-README-Template
 [roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark
 [arch-shield]: https://skillicons.dev/icons?i=arch
-[exp-lang]: https://skillicons.dev/icons?i=cpp,cs,go,js,php,ruby,pwsh,bash
+[exp-lang]: https://skillicons.dev/icons?i=cs,go,js,php,python,ruby,pwsh,bash
 [int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring,scala
