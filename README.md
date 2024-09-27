@@ -114,7 +114,7 @@ Released under [MIT](/LICENSE) by [@AchroDev](https://github.com/AchroDev).
 [active-shield-yes]: https://img.shields.io/badge/Active-Yes-2ea44f
 [active-shield-no]: https://img.shields.io/badge/Active-No-red
 [readme-template]: https://github.com/othneildrew/Best-README-Template
-[roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark
+[roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark&roadmaps=rust%2Clinux%2Candroid%2Ccpp
 [arch-shield]: https://skillicons.dev/icons?i=arch
 [exp-lang]: https://skillicons.dev/icons?i=cs,go,js,php,python,ruby,pwsh,bash
 [int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring,scala
