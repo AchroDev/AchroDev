@@ -38,7 +38,7 @@ fn main() {
 ![C++][c++-shield] ![active-shield-yes]
 
 ```C++
-#define <iostream>
+#include <iostream>
 #define LOG(x) std::cout << x << std::endl;
 
 int main()
