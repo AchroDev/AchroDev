@@ -116,5 +116,5 @@ Released under [MIT](/LICENSE) by [@AchroDev](https://github.com/AchroDev).
 [readme-template]: https://github.com/othneildrew/Best-README-Template
 [roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark&roadmaps=rust%2Clinux%2Candroid%2Ccpp
 [arch-shield]: https://skillicons.dev/icons?i=arch
-[exp-lang]: https://skillicons.dev/icons?i=cs,go,js,php,python,ruby,pwsh,bash
+[exp-lang]: https://skillicons.dev/icons?i=c,cs,go,js,php,python,ruby,pwsh,bash
 [int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring,scala
