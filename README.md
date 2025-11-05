@@ -66,8 +66,6 @@ Class Main{
 }
 ```
 
-![lang stats][lang-stats-link] ![roadmap.sh][roadmap-sh]
-
 ## Other Programming Languages Used/Learning
 
 ![ExperimentalLanguages][exp-lang]
