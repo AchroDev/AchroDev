@@ -26,7 +26,7 @@
 
 ## Programming Languages Actively Using/Learning
 
-![Rust][rust-shield] ![active-shield-yes]
+![Rust][rust-shield]
 
 ```Rust
 fn main() {
@@ -35,7 +35,7 @@ fn main() {
 }
 ```
 
-![C++][c++-shield] ![active-shield-yes]
+![C++][c++-shield]
 
 ```C++
 #include <iostream>
@@ -48,7 +48,7 @@ int main()
 }
 ```
 
-![Kotlin][kotlin-shield] ![active-shield-no]
+![Kotlin][kotlin-shield]
 
 ```Kotlin
 fun main() {
@@ -56,7 +56,7 @@ fun main() {
 }
 ```
 
-![Java][java-shield] ![active-shield-no]
+![Java][java-shield]
 
 ```Java
 Class Main{
