@@ -66,9 +66,11 @@ Class Main{
 
 ![JavaScript][js-shield]
 ```JavaScript
-export default function HelloWorld(){
-  use
-  console.log("I have gotten big into JavaScript and building web apps");
+import { toast } from 'sonner';
+
+export default function main(){
+  document.title = "My Personal Repository";
+  toast.info("I have gotten big into JavaScript and building web apps");
 }
 ```
 
