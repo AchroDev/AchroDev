@@ -3,8 +3,6 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-
-[![MIT License][license-shield]][license-url]
 ![Followers][followers-shield]
 
 <!-- PROJECT LOGO -->
@@ -17,7 +15,7 @@
 <h3 align="center">👋AchroDev</h3>
 
   <p align="center">
-    This is my personal repository full of learning and fun projects.
+    This is my personal repository full of learning, fun, and some serious projects.
     <br />
   </p>
 </div>
@@ -66,13 +64,25 @@ Class Main{
 }
 ```
 
-## Other Programming Languages Used/Learning
+![JavaScript][js-shield]
+```JavaScript
+export default function HelloWorld(){
+  use
+  console.log("I have gotten big into JavaScript and building web apps");
+}
+```
+
+## Other Languages Used/Learning
 
 ![ExperimentalLanguages][exp-lang]
 
 ## Languages Interested In
 
 ![InterestedLanguages][int-lang]
+
+## Commonly Used Frameworks
+
+![Framworks][frameworks]
 
 <!-- CONTACT -->
 
@@ -102,10 +112,11 @@ Released under [MIT](/LICENSE) by [@AchroDev](https://github.com/AchroDev).
 [badges1]: https://dev.to/envoy_/150-badges-for-github-pnk
 [badges2]: https://skillicons.dev/
 [email]: mailto:achrodev@proton.me
-[rust-shield]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
-[kotlin-shield]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
-[java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[c++-shield]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[rust-shield]: https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white
+[kotlin-shield]: https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white
+[java-shield]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=black
+[js-shield]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square
+[c++-shield]: https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [followers-shield]: https://img.shields.io/github/followers/AchroDev.svg?style=social&label=Follow&maxAge=2592000
 [lang-stats-link]: https://github-readme-stats.vercel.app/api/top-langs/?username=AchroDev&theme=blue-green
@@ -114,5 +125,6 @@ Released under [MIT](/LICENSE) by [@AchroDev](https://github.com/AchroDev).
 [readme-template]: https://github.com/othneildrew/Best-README-Template
 [roadmap-sh]: https://roadmap.sh/card/tall/6657e841b998f3b3c7da5bd1?variant=dark&roadmaps=rust%2Clinux%2Candroid%2Ccpp
 [arch-shield]: https://skillicons.dev/icons?i=arch
-[exp-lang]: https://skillicons.dev/icons?i=c,cs,go,js,php,python,ruby,pwsh,bash
+[exp-lang]: https://skillicons.dev/icons?i=c,cs,go,js,php,python,ruby,pwsh,bash,zig
 [int-lang]: https://skillicons.dev/icons?i=haskell,lua,spring,scala
+[frameworks]: https://skillicons.dev/icons?i=react,nextjs,astro,tauri,electron,qt
